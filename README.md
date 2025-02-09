@@ -21,17 +21,17 @@ This Python-based tool automates repetitive mouse click tasks by recording speci
 ## Requirements
 
 - **Python 3.x**
-- **pyautogui Library**  
+- **Required Dependencies:**
   Install using pip:
   ```bash
-  pip install pyautogui
+  pip install -r requirements.txt
   ```
 
 ## Installation
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/mouse-click-automation.git
+   [https://github.com/apiladhikari1/Python-Mouse-Click-Automation-Script.git]
    ```
 2. **Navigate to the Project Directory:**
    ```bash
