@@ -31,7 +31,7 @@ This Python-based tool automates repetitive mouse click tasks by recording speci
 
 1. **Clone the Repository:**
    ```bash
-   [https://github.com/apiladhikari1/Python-Mouse-Click-Automation-Script.git]
+   https://github.com/apiladhikari1/Python-Mouse-Click-Automation-Script.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
